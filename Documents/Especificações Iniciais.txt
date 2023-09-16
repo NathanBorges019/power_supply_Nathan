@@ -1,0 +1,16 @@
+- Transformador
+Entrada: 110Vac
+Saída: 35Vac - 3A
+Fusível: 3.5A
+
+- 	Ponte Retificadora: 4x1n5402
+- Banco de Capacitores de 1000uF x 50V
+- Utilizar um diodo zener 30V como referência de tensão de 5W
+- Potênciometro de 100K;
+- OPAMP CA3140;
+- Capacitor de 220nF 50/63V para filtragem;
+- Transistor de Potencia TIP122;
+
+
+
+
