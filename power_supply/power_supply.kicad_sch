@@ -4812,7 +4812,7 @@
     (property "Value" "35VAC - 3A" (at 55.8927 22.606 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Transformer_THT:Transformer_37x44" (at 55.88 30.48 0)
+    (property "Footprint" "Connector_Molex:Molex_KK-396_5273-04A_1x04_P3.96mm_Vertical" (at 55.88 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 55.88 30.48 0)
